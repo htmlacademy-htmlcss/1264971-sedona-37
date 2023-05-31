@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Андрей Милаков](https://up.htmlacademy.ru/htmlcss/37/user/1264971).
-* Наставник: `Неизвестно`.
+* Наставник: [Артем Именин](https://htmlacademy.ru/profile/aimenin).
 
 ---
 
